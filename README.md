@@ -1,3 +1,3 @@
 # fraud_detection
 This project implements a classifier that can detect fraud.
-dasd
+Checkout a demo of the in-house triage center.
